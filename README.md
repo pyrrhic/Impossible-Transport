@@ -4,6 +4,6 @@ Place an engine and some wheels. Connect them with metal frames. Hook up a chain
 The code is a horrifying mess. The game is kinda buggy and fun. And very incomplete, it's just one level.
 
 The lessons I learned:
-- Physic simulation is finicky when high speeds are involved.
+- Physic simulations are finicky when high speeds are involved.
 - There is a limit to how hacky and messy one can code without constantly cringing. 
 - Level design is not very fun.
